@@ -1,8 +1,8 @@
-# 👋 Welcome to A Product
+---
+description: gitbook을 이용해 github markdown 작성시 사용가능한 style 확인 중
+---
 
-{% hint style="info" %}
-**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
+# 👋 Gitbook for REAME.md
 
 ## Overview
 
